@@ -45,7 +45,7 @@ Contact: renvt89@gmail.com
 | Markdown Notes | https://renvt89.github.io/rene_vergara_apps/markdown-notes/ |
 | Math Drills | https://renvt89.github.io/rene_vergara_apps/math-drills/ |
 | Meal Planner | https://renvt89.github.io/rene_vergara_apps/meal-planner/ |
-| Med Reminder | https://renvt89.github.io/rene_vergara_apps/med-reminder/ |
+| Med Dose Checklist | https://renvt89.github.io/rene_vergara_apps/med-dose-checklist/ |
 | Meme Maker | https://renvt89.github.io/rene_vergara_apps/meme-maker/ |
 | Mood Journal | https://renvt89.github.io/rene_vergara_apps/mood-journal/ |
 | Morse Trainer | https://renvt89.github.io/rene_vergara_apps/morse-trainer/ |
